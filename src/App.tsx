@@ -59,7 +59,7 @@ export default function App() {
               Jesper Olesen
             </p>
             <h1 id="page-title">
-              Wood <span>by</span> <em>JO</em>
+              WOOD <span>BY</span> <em>JO</em>
             </h1>
           </header>
 
